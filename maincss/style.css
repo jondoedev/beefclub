@@ -40,7 +40,7 @@ img{
 	position: relative;
 }   
 .banner-dott {
-    background: url(../images/dott.png)repeat 0px 0px;
+    background: url(../mainimages/dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -51,12 +51,13 @@ img{
 h1 a.navbar-brand {
     font-size: 1em;
     color: #fff !important;
+    background: linear-gradient(to right, #1a4a72, #f35454);
     text-transform: uppercase;
     padding: 13px 10px 13px 0;
     border: 2px solid #fff;
 }
 h1 a.navbar-brand span {
-    background: #003984;
+    background: linear-gradient(to right, #f35a5a, #1a4a72);
     padding: 1px 12px;
 	font-weight: bold;
     font-size: 1em;
@@ -83,7 +84,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
     background-color:#de0f17;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #4CAF50;
+    color: #0786ff;
     background-color: transparent;
 }
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
@@ -181,7 +182,7 @@ ul.nav.navbar-nav.navbar-right {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/min1.jpg) no-repeat 0px 0px;
+    background: url(../mainimages/min1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -190,7 +191,7 @@ ul.nav.navbar-nav.navbar-right {
 	min-height:780px;
 }
 .w3layouts-banner-top1{
-	background: url(../images/min2.jpg) no-repeat 0px 0px;
+	background: url(../mainimages/min2.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -199,7 +200,7 @@ ul.nav.navbar-nav.navbar-right {
 	min-height:780px;
 }
 .w3layouts-banner-top2{
-	background: url(../images/min3.jpg) no-repeat 0px 0px;
+	background: url(../mainimages/min3.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -279,16 +280,16 @@ ul.nav.navbar-nav.navbar-right {
     text-decoration: none;
     height: 34px;
     width: 34px;
-    background: url(../images/left.png) no-repeat 0px 0px;
+    background: url(../mainimages/left.png) no-repeat 0px 0px;
 }
 .callbacks_nav.next {
     left: auto;
-    background: url(../images/right.png) no-repeat 0px 0px;
+    background: url(../mainimages/right.png) no-repeat 0px 0px;
     right: -62px;
 }
 .callbacks_nav.prev {
     left: auto;
-    background: url(../images/left.png) no-repeat 0px 0px;
+    background: url(../mainimages/left.png) no-repeat 0px 0px;
     left: -58px;
 }
 #slider3-pager a {
@@ -445,7 +446,7 @@ ul.nav.navbar-nav.navbar-right {
 .about-grids h3 {
     font-size: 20px;
     text-transform: uppercase;
-    color: #2dde98;
+    color: #3a3a3a;
     line-height: 33px;
 }
 .about-grids{
@@ -460,16 +461,9 @@ ul.nav.navbar-nav.navbar-right {
     line-height: 27px;
 }
 .aboutgrid1 {
-    background-image: url("/bar/images/panorama bar2.jpg") ;
     padding: 4em 3em;
-    border: 1px solid #000000;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
-    background-blend-mode: screen;
-    opacity: .4;
-
+    background: #2dde98;
+    border: 1px solid #fff;
 }
 .aboutgrid3{
     padding: 4em 3em;
@@ -660,7 +654,7 @@ button.close {
 	width: 100%;
 	height: 100%;
 	-webkit-box-shadow: inset 0 0 0 16px rgba(255, 255, 255, 0.6), 0 1px 2px rgba(0, 0, 0, 0.3);
-	-moz-box-shadow: inset 0 0 0 16px rgba(255, 255, 255, 0.6), 0 1px 2px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: inset 0 0 0 16px rgba(255, 255, 255, 0.6), 0 1px 2px rgba(0, 0, 0, 0.3); 
 	box-shadow: inset 0 0 0 16px rgba(255, 255, 255, 0.6), 0 1px 2px rgba(0, 0, 0, 0.3);
 	-webkit-transition: all 0.35s ease-in-out;
 	-moz-transition: all 0.35s ease-in-out;
@@ -679,7 +673,7 @@ button.close {
 	backface-visibility: hidden;
 }
 .ih-item.circle.effect1 .spinner {
-    border: 6px solid #003984;
+    border: 6px solid #f35a5a;
     border-right-color: #DFDFDF;
     border-bottom-color: #DFDFDF;
     -webkit-transition: all 0.8s ease-in-out;
@@ -760,7 +754,7 @@ button.close {
     margin: 0;
 }
 .agile_team_grid:hover .social-icons.team-icons {
-    /*background: #f35a5a;*/
+    background: #f35a5a;
     bottom: 33%;
 }
 .social-icons.team-icons ul li {
@@ -963,7 +957,7 @@ figure.effect-roxy:hover p {
 
 /*-- testimonial --*/
 .testimonial{
-    background: url(../images/stats.jpg) no-repeat 0px -100px;
+    background: url(../mainimages/stats.jpg) no-repeat 0px -100px;
     padding: 4em 0;
     background-size: cover;
 	position:relative;
@@ -1108,7 +1102,7 @@ input.phone {
 }
 .contact-form {
     padding: 4em 18em 4em 5em;
-    background: url(../images/contact.jpg) no-repeat 0px 0px;
+    background: url(../mainimages/contact.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .contact-left h3 {
@@ -1230,7 +1224,7 @@ a.facebook {
 	height: 40px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/arrow.png) no-repeat 0px 0px;
+	background: url(../mainimages/arrow.png) no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 40px;
@@ -1321,7 +1315,7 @@ a.facebook {
 		height: 270px;
 	}
 	.testimonial {
-		background: url(../images/stats.jpg) no-repeat 0px 0px;
+		background: url(../mainimages/stats.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.contact-left {
