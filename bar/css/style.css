@@ -1353,7 +1353,7 @@ a.facebook {
 		min-height: 580px;
 	}
 	.aboutgrid1, .aboutgrid5, .aboutgrid3 ,.aboutgrid2, .aboutgrid4, .aboutgrid6 {
-		width: 33.33%;
+		width: 100%;
 		float: left;
 	}
 	.aboutgrid1, .aboutgrid5, .aboutgrid3 {
