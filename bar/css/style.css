@@ -10,6 +10,8 @@ html, body{
 	background:#ffffff;
 	margin: 0;
 }
+
+
 p,ul li,ol li{
 	margin:0;
 	font-size:15px;
@@ -181,7 +183,7 @@ ul.nav.navbar-nav.navbar-right {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/min1.jpg) no-repeat 0px 0px;
+    background: url(../images/min11.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -190,7 +192,7 @@ ul.nav.navbar-nav.navbar-right {
 	min-height:780px;
 }
 .w3layouts-banner-top1{
-	background: url(../images/min2.jpg) no-repeat 0px 0px;
+	background: url(../images/min22.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -199,7 +201,7 @@ ul.nav.navbar-nav.navbar-right {
 	min-height:780px;
 }
 .w3layouts-banner-top2{
-	background: url(../images/min3.jpg) no-repeat 0px 0px;
+	background: url(../images/min33.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;

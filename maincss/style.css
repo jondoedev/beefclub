@@ -35,6 +35,13 @@ input[type="submit"],input[type="reset"],a{
 img{
 	width:100%;
 }
+img.navbar-brand.img-responsive.logo{
+    height: 110px;
+    width: 220px;
+    position: static;
+    margin-left: 200%;
+    margin-right: 200%;
+}
 /*-- banner --*/ 
 .w3ls-banner{
 	position: relative;
@@ -47,23 +54,7 @@ img{
     -o-background-size: 2px;
     -ms-background-size: 2px;
 }
-/*-- header --*/ 
-h1 a.navbar-brand {
-    font-size: 1em;
-    color: #fff !important;
-    background: linear-gradient(to right, #1a4a72, #f35454);
-    text-transform: uppercase;
-    padding: 13px 10px 13px 0;
-    border: 2px solid #fff;
-}
-h1 a.navbar-brand span {
-    background: linear-gradient(to right, #f35a5a, #1a4a72);
-    padding: 1px 12px;
-	font-weight: bold;
-    font-size: 1em;
-    margin-right: 0.1em;
-    border-right: 2px solid #fff;
-}
+/*-- header --*/
 nav.navbar.navbar-default.navbar-fixed-top {
     background:rgba(0, 0, 0, 0.65);
     border: none;
@@ -165,8 +156,8 @@ ul.nav.navbar-nav.navbar-right {
     transition-delay: 0.4s;
 	    -webkit-transform: scale3d(0, 1, 1);
     transform: scale3d(0, 1, 1);
-    -webkit-transform-origin: center left;
-    transform-origin: center left;
+    -webkit-transform-origin: center;
+    transform-origin: center;
     -webkit-transition: transform 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
     transition: transform 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
 }

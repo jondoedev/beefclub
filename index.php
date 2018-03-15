@@ -103,19 +103,19 @@
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header page-scroll">
+                <img src="src/logo-red.png" class="navbar-brand img-responsive logo" alt="BEEFCLUB">
+                <div class="clearfix"></div>
+                <div class="clearfix"></div>
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 					<span class="sr-only">FoodChef</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1><a class="navbar-brand" href="/"><span>Beef</span>Club</a></h1>
 			</div>
-			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-					<li class="hidden"><a class="page-scroll scroll" href="#page-top"></a>	</li>
+<!--                    <li class="hidden"><a class="page-scroll scroll" href="#page-top"></a>	</li>-->
 					<li><a href="/restaurant/">|Ресторан|</a></li>
 					<li><a href="/bar/">|Бар|</a></li>
 				</ul>
@@ -140,7 +140,7 @@
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 					</div>
 					<div class="modal-body">
-						<img src="mainimages/food3.jpg" alt=" " class="img-responsive" />
+                        <video src="mainimages/food3.jpg" alt=" " class="img-responsive"/>
 						<p>Ut enim ad minima veniam, quis nostrum
 							exercitationem ullam corporis suscipit laboriosam,
 							nisi ut aliquid ex ea commodi consequatur? Quis autem
