@@ -143,11 +143,32 @@
 			<div data-aos="zoom-in" class="col-md-12 aboutgrid1">
 				<div style="background-color: rgba(0,0,0,0.53)">
 				<h3>Lorem ipsum dolor sitamet</h3>
-				<p>Каждый веб-разработчик знает, что такое текст-«рыба». Текст этот, несмотря на название, не имеет никакого отношения к обитателям водоемов. Используется он веб-дизайнерами для вставки на интернет-страницы и демонстрации внешнего вида контента, просмотра шрифтов, абзацев, отступов и т.д. Так как цель применения такого текста исключительно демонстрационная, то и смысловую нагрузку ему нести совсем необязательно. Более того, нечитабельность текста сыграет на руку при оценке качества восприятия макета.
-
-					Самым известным «рыбным» текстом является знаменитый Lorem ipsum. Считается, что впервые его применили в книгопечатании еще в XVI веке. Своим появлением Lorem ipsum обязан древнеримскому философу Цицерону, ведь именно из его трактата «О пределах добра и зла» средневековый книгопечатник вырвал отдельные фразы и слова, получив текст-«рыбу», широко используемый и по сей день. Конечно, возникают некоторые вопросы, связанные с использованием Lorem ipsum на сайтах и проектах, ориентированных на кириллический контент – написание символов на латыни и на кириллице значительно различается.
-
-					И даже с языками, использующими латинский алфавит, могут возникнуть небольшие проблемы: в различных языках те или иные буквы встречаются с разной частотой, имеется разница в длине наиболее распространенных слов. Отсюда напрашивается вывод, что все же лучше использовать в качестве «рыбы» текст на том языке, который планируется использовать при запуске проекта. Сегодня существует несколько вариантов Lorem ipsum, кроме того, есть специальные генераторы, создающие собственные варианты текста на основе оригинального трактата, благодаря чему появляется возможность получить более длинный неповторяющийся набор слов. </p>
+                    <p>В самом сердце Харькова на ул. Сумская, 7 в огромном 2-х этажном доме с тайным
+                        цокольным этажом жили отец и сын. Умные, солидные, загадочные мужчины, но
+                        абсолютно разные личности.
+                        Отец, человек строгих взглядов, спокойный, размеренный, благородный,
+                        настоящий ценитель мяса и вина, истинный гурман.
+                        Сын - полная противоположность своего отца - брутальный, дерзкий, безумный
+                        ценитель крепких напитков, дымного кальяна, громкой музыки и зажигательных танцев.
+                        Никак они не могли найти компромисс, постоянные разногласия не давали им
+                        покоя. Отец просыпался с восходом солнца, сын – на закате. Отец любил спокойные
+                        встречи в кругу близких друзей, в сопровождении живой музыки, а сын — шумные
+                        компании и новые знакомства и всегда находился в поиске чего-то нового и
+                        нетривиального. Люди обожали эту семью и всегда тянулись к ним, но из-за вечных
+                        споров, ни отец ни сын не замечали любви харьковчан.
+                        И вот наконец-то одним осенним днем их настигло озарение, что нет ничего
+                        сильнее в мире, чем семейные узы. И разделили они по совести свой дом напополам,
+                        чтобы реализовать все свои мечты и желания и больше никогда не мешать друг другу.
+                        Отец пригласил к себе в ресторан на первом этаже друга, шеф-повара, и вместе они
+                        накормили мясными изысками весь Харьков, да так вкусно, что люди были поражены и
+                        неустанно говорили об этом.
+                        А сын в тайном цокольном этаже разместил шикарный бар, с танцполом и сценой и
+                        развлекал самых ярых тусовщиков каждую ночь, проводя яркие и драйвовые вечеринки с
+                        участием лучших диджеев и музыкантов не только нашего города, но и артистов со всего
+                        мира.
+                        Успех Beef Club лежит на поверхности, благодаря крепким семейным узам, они
+                        создали заведение, в котором объединили две противоположности, создав заведение не
+                        для всех, но для каждого.</p>
 			</div>
 			</div>
 
@@ -218,92 +239,37 @@
 	<div class="heading">
 		<h3 data-aos="zoom-in" >Меню</h3>
 	</div>
-	<div class="gallery-grids">
-		<div data-aos="flip-right" class="col-md-3 gallery-grid">
-			<div class="grid">
-				<figure class="effect-roxy">
-					<a class="example-image-link" href="images/food1.jpg" data-lightbox="example-set" data-title="">
-						<img src="images/food1.jpg" alt="" />
-						<figcaption>
-							<h3>Название <span>Блюда</span></h3>
-							<p>Краткое описание блюда</p>
-						</figcaption>
-					</a>
-				</figure>
-			</div>
-		</div>
-		<div data-aos="flip-right" class="col-md-3 gallery-grid">
-			<div class="grid">
-				<figure class="effect-roxy">
-					<a class="example-image-link" href="images/food2.jpg" data-lightbox="example-set" data-title="">
-						<img src="images/food2.jpg" alt="" />
-						<figcaption>
-							<h3>Название <span>Блюда</span></h3>
-							<p>Краткое описание блюда</p>
-						</figcaption>
-					</a>
-				</figure>
-			</div>
-		</div>
-		<div data-aos="flip-right" class="col-md-3 gallery-grid">
-			<div class="grid">
-				<figure class="effect-roxy">
-					<a class="example-image-link" href="images/food3.jpg" data-lightbox="example-set" data-title="">
-						<img src="images/food3.jpg" alt="" />
-						<figcaption>
-							<h3>Cobb <span>Salad</span></h3>
-							<p>Aenean fermentum nisl ac imperdiet commodo</p>
-						</figcaption>
-					</a>
-				</figure>
-			</div>
-		</div>
-		<div data-aos="flip-right" class="col-md-3 gallery-grid">
-			<div class="grid">
-				<figure class="effect-roxy">
-					<a class="example-image-link" href="images/food4.jpg" data-lightbox="example-set" data-title="">
-						<img src="images/food4.jpg" alt="" />
-						<figcaption>
-							<h3>Eggs <span>Benedict</span></h3>
-							<p>Aenean fermentum nisl ac imperdiet commodo</p>
-						</figcaption>
-					</a>
-				</figure>
-			</div>
-		</div>
-		<div class="gallery-grids">
-			<div data-aos="flip-right" class="col-md-6 gallery-grid">
-				<div class="grid">
-					<figure class="effect-roxy">
-						<a class="example-image-link" href="images/food1.jpg" data-lightbox="example-set" data-title="">
-							<img src="images/kitchen.jpg" alt="" />
-							<figcaption>
-								<div style="text-align: center">
-								<h3>Меню <span>Кухня</span></h3>
-								<p> Скачать pdf</p>
-							</figcaption>
-						</a>
-					</figure>
-				</div>
-			</div>
-			<div class="gallery-grids">
-				<div data-aos="flip-right" class="col-md-6 gallery-grid">
-					<div class="grid">
-						<figure class="effect-roxy">
-							<a class="example-image-link" href="images/food1.jpg" data-lightbox="example-set" data-title="">
-								<img src="images/bar.jpg" alt="" />
-								<figcaption>
-									<div style="text-align: center">
-									<p><h3> Меню <span>Бар</span></h3></p>
-									<p> Скачать pdf</p></div>
-								</figcaption>
-							</a>
-						</figure>
-					</div>
-				</div>
-
-		<div class="clearfix"> </div>
-	</div>
+    <div class="menu">
+        <div class="gallery-grids">
+			<?php for ( $i = 1; $i <= 5; $i ++ ) { ?>
+                <div data-aos="fade-right" class="col-md-2 gallery-grid text-center">
+                    <div class="grid">
+                        <figure class="effect-roxy">
+                            <a class="example-image-link" href="../src/images/bar/menu/<?= '0' . $i ?>.jpg"
+                               data-lightbox="example-set" data-title="">
+                                <img src="../src/images/bar/menu/<?= '0' . $i ?>.jpg" alt=""/>
+                            </a>
+                        </figure>
+                    </div>
+                </div>
+			<?php } ?>
+            <div data-aos="fade-right" class="col-md-2 gallery-grid text-center">
+                <div class="grid">
+                    <figure class="effect-roxy">
+                        <img src="../src/images/bar/menu/<?= '0' . $i ?>.jpg" height="200" alt=""/></a>
+                        <a href="../src/images/bar/menu/beef_club_bar_menu.pdf" target="_blank">
+                            <figcaption>
+                                <div class="text-center">
+                                    <p><h3> Меню <span>Бар</span></h3></p>
+                                    <p> Скачать pdf</p></div>
+                            </figcaption>
+                        </a>
+                    </figure>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
 </div>
 <!-- //gallery -->
 <!-- testimonial -->
